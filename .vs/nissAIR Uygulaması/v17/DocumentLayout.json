@@ -1,0 +1,946 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|c:\\users\\nisa\\source\\repos\\nissair uygulamas\u0131\\nissair uygulamas\u0131\\ucustanimlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucustanimlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ucustanimlama.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucustanimlama.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\kullaniciucuslari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\kullaniciucuslari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biniskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biniskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\odemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\odemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biletsonkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biletsonkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biletsonkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biletsonkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\koltuksecimi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\koltuksecimi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ekstrabagajhakk\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ekstrabagajhakk\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ekstrabagajhakk\u0131.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ekstrabagajhakk\u0131.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ekstrabagajhakk\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ekstrabagajhakk\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ekhizmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ekhizmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biletalis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biletalis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biletalis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biletalis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biletsecenek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biletsecenek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\messageboxbilet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\messageboxbilet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\messageboxbilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\messageboxbilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ucuslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucuslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ucaktanimla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucaktanimla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biletsecenek.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biletsecenek.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\adminanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\adminanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ucustanimlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucustanimlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\acilisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\acilisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biniskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biniskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\kullaniciucuslari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\kullaniciucuslari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ucuslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucuslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\acilisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\acilisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\odemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\odemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ucaktanimla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucaktanimla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\adminanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\adminanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\anasayfagd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\anasayfagd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\anasayfagd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\anasayfagd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\odemeekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\odemeekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\anasayfagd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\anasayfagd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\checkin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\checkin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\messageboxbilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\messageboxbilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\messageboxbilet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\messageboxbilet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\biletsecenek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\biletsecenek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ekhizmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ekhizmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\kayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\ucuslar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\ucuslar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\messageboxbilet2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\messageboxbilet2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\kayitekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\kayitekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\basarilikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\basarilikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissair uygulamas\u0131\\basarilikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DB896-19A6-4023-B4AB-66AD6D5D7DA7}|nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131.csproj|solutionrelative:nissair uygulamas\u0131\\basarilikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Program.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:46:07.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OdemeEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\OdemeEkrani.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\OdemeEkrani.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\OdemeEkrani.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\OdemeEkrani.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:42:55.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\CheckIn.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\CheckIn.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\CheckIn.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\CheckIn.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:10:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinisKarti.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BinisKarti.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BinisKarti.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BinisKarti.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BinisKarti.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwE0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:35:10.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciUcuslari.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:08:34.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcusTanimlama.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcusTanimlama.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\UcusTanimlama.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcusTanimlama.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\UcusTanimlama.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswHIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:57:03.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcusTanimlama.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcusTanimlama.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\UcusTanimlama.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcusTanimlama.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\UcusTanimlama.Designer.cs",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAtwG8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:36:44.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BiletSonKontrol.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSonKontrol.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BiletSonKontrol.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSonKontrol.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BiletSonKontrol.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:18:47.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BiletSonKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSonKontrol.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BiletSonKontrol.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSonKontrol.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BiletSonKontrol.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:07:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KoltukSecimi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KoltukSecimi.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KoltukSecimi.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KoltukSecimi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KoltukSecimi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:28:54.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EkstraBagajHakk\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:00:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EkstraBagajHakk\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:06:10.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EkHizmetler.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkHizmetler.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\EkHizmetler.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkHizmetler.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\EkHizmetler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:57:30.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KoltukSecimi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KoltukSecimi.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KoltukSecimi.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KoltukSecimi.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KoltukSecimi.Designer.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwHQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T04:08:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BiletAlis.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletAlis.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BiletAlis.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletAlis.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BiletAlis.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA3wF0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:55:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EkstraBagajHakk\u0131.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\EkstraBagajHakk\u0131.Designer.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAnwGUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:11:38.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KoltukSecimi.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KoltukSecimi.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KoltukSecimi.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KoltukSecimi.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KoltukSecimi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:40:32.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KullaniciGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciGiris.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KullaniciGiris.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KullaniciGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:29:37.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KullaniciGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciGiris.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KullaniciGiris.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciGiris.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KullaniciGiris.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDoAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:35:35.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BiletAlis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletAlis.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BiletAlis.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletAlis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BiletAlis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:50:47.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BiletSecenek.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSecenek.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BiletSecenek.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSecenek.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BiletSecenek.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA+wBcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:20:23.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageBoxBilet2.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA/wBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:57:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MessageBoxBilet.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\MessageBoxBilet.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\MessageBoxBilet.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:21:32.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ucuslar.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Ucuslar.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\Ucuslar.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Ucuslar.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\Ucuslar.cs",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAqwMIBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:52:51.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfa.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfa.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\anasayfa.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:00:36.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UcakTanimla.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcakTanimla.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\UcakTanimla.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcakTanimla.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\UcakTanimla.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:20:44.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BiletSecenek.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSecenek.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BiletSecenek.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSecenek.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BiletSecenek.Designer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:19:42.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminGiris.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\AdminGiris.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminGiris.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\AdminGiris.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:54:31.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminAnasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminAnasayfa.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\AdminAnasayfa.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminAnasayfa.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\AdminAnasayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:35:00.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UcusTanimlama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcusTanimlama.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\UcusTanimlama.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcusTanimlama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\UcusTanimlama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:43:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KayitEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KayitEkrani.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KayitEkrani.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KayitEkrani.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KayitEkrani.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:18:48.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AcilisEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AcilisEkrani.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\AcilisEkrani.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AcilisEkrani.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\AcilisEkrani.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:26:15.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfa.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:57:22.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BinisKarti.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BinisKarti.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BinisKarti.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BinisKarti.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BinisKarti.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:00:31.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KullaniciUcuslari.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KullaniciUcuslari.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:04:51.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ucuslar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Ucuslar.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\Ucuslar.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Ucuslar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\Ucuslar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:31:40.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OdemeEkrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\OdemeEkrani.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\OdemeEkrani.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\OdemeEkrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\OdemeEkrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:20:10.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AcilisEkrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AcilisEkrani.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\AcilisEkrani.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AcilisEkrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\AcilisEkrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:16:53.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UcakTanimla.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcakTanimla.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\UcakTanimla.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\UcakTanimla.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\UcakTanimla.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:11:15.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminAnasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminAnasayfa.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\AdminAnasayfa.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminAnasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\AdminAnasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:16:16.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "sqlBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\sqlBaglanti.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\sqlBaglanti.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\sqlBaglanti.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\sqlBaglanti.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:03:29.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "anasayfaGD.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfaGD.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\anasayfaGD.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfaGD.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\anasayfaGD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:50:24.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "anasayfaGD.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfaGD.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\anasayfaGD.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfaGD.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\anasayfaGD.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:57:32.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OdemeEkrani.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\OdemeEkrani.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\OdemeEkrani.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\OdemeEkrani.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\OdemeEkrani.Designer.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAtwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:07:52.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CheckIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\CheckIn.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\CheckIn.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\CheckIn.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\CheckIn.Designer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAtwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:19:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "anasayfaGD.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfaGD.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\anasayfaGD.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfaGD.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\anasayfaGD.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:09:43.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "anasayfa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfa.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\anasayfa.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\anasayfa.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\anasayfa.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:24:02.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CheckIn.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\CheckIn.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\CheckIn.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\CheckIn.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\CheckIn.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:02:44.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MessageBoxBilet2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\MessageBoxBilet2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:44:02.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MessageBoxBilet.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\MessageBoxBilet.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\MessageBoxBilet.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:11:45.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BiletSecenek.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSecenek.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BiletSecenek.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BiletSecenek.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BiletSecenek.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:28:12.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EkHizmetler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkHizmetler.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\EkHizmetler.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\EkHizmetler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\EkHizmetler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:07:25.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "KayitEkrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KayitEkrani.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KayitEkrani.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KayitEkrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KayitEkrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:55:52.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Ucuslar.resx",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Ucuslar.resx",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\Ucuslar.resx",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\Ucuslar.resx",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\Ucuslar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-23T07:42:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AdminGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminGiris.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\AdminGiris.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\AdminGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\AdminGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:49:50.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MessageBoxBilet2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet2.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\MessageBoxBilet2.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\MessageBoxBilet2.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\MessageBoxBilet2.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:25:33.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "KayitEkrani.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KayitEkrani.Designer.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\KayitEkrani.Designer.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\KayitEkrani.Designer.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\KayitEkrani.Designer.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAUwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:22:32.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BasariliKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BasariliKayit.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BasariliKayit.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BasariliKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BasariliKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:28:09.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BasariliKayit.cs",
+              "DocumentMoniker": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BasariliKayit.cs",
+              "RelativeDocumentMoniker": "nissAIR Uygulamas\u0131\\BasariliKayit.cs",
+              "ToolTip": "C:\\Users\\Nisa\\source\\repos\\nissAIR Uygulamas\u0131\\nissAIR Uygulamas\u0131\\BasariliKayit.cs",
+              "RelativeToolTip": "nissAIR Uygulamas\u0131\\BasariliKayit.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:38:52.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

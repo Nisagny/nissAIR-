@@ -1,0 +1,34 @@
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\bin\Debug\nissAIR Uygulaması.exe.config
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\bin\Debug\nissAIR Uygulaması.exe
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\bin\Debug\nissAIR Uygulaması.pdb
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.AcilisEkrani.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.KullaniciGiris.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.Properties.Resources.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR Uygulaması.csproj.GenerateResource.cache
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR .96A4EF16.Up2Date
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR Uygulaması.exe
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR Uygulaması.pdb
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.AdminGiris.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.KayitEkrani.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.BasariliKayit.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.anasayfa.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.anasayfaGD.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.CheckIn.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.Ucuslar.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.AdminAnasayfa.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.UcusTanimlama.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.BiletSecenek.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.EkHizmetler.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.BiletAlis.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.MessageBoxBilet.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.MessageBoxBilet2.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.KoltukSecimi.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.BiletSonKontrol.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.OdemeEkrani.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.EkstraBagajHakki.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.BinisKarti.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.UcakTanimla.resources
+C:\Users\Nisa\source\repos\nissAIR Uygulaması\nissAIR Uygulaması\obj\Debug\nissAIR_Uygulaması.KullaniciUcuslari.resources
